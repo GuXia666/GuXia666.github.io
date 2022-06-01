@@ -105,4 +105,4 @@ deploy:
   type: git
   repo: git@github.com:GuXia666/GuXia666.github.io.git
   email: 1359293842@qq.com
-  branch: master
+  branch: main
